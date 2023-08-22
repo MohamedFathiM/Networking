@@ -21,7 +21,7 @@ In summary, HTTP is a protocol used for web communication, allowing clients to r
 
 # IETF model (IP / TCP Model)
 
-<div> <img src="/section_one/images/OSI-Model-vs-TCPIP-Model.png" width=200/></div>
+<div> <img src="/section_one/images/OSI-Model-vs-TCPIP-Model.png" width="600" /></div>
 
 # lsof -i
 
