@@ -21,3 +21,11 @@ You can find my notes about this course and commands which are explained
   - my notes about this section
 - commands.sh
   - commands are used in this section
+
+Sections :
+
+- Section One (From Ping To HTTP) ✅
+- Section Two (Names And Addresses) ✅
+- Section Three (Addressing And Networks) ✅
+- Section Four (Protocol Layers)
+- Section Five (Big Networks)
